@@ -1,0 +1,81 @@
+body{
+    font-weight: 100px;
+    font-style: normal;
+    
+}
+
+head{
+    background-image: url("brand.jpg");
+}
+
+.brand a{
+    letter-spacing: 16px; 
+    color:black;
+    text-decoration: none;
+    list-style: none;
+}
+
+.brand small{
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.video video{
+    width:100%;
+    height: 700px;
+}
+
+
+.contact{
+    color: black;
+    border: 5px solid gray;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   font-size: small;
+   padding: 15px;
+   text-align: center;
+}
+
+.footer {
+  font-size: 15px;
+  background-color: black;
+  
+}
+
+li{
+    text-decoration-style: none;
+    text-decoration: none;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.fotter{
+    background-color: black;
+    text-align: center;
+    font-size: 15px;
+    color:aliceblue;
+    letter-spacing: 9px;
+
+}
+
+small{
+    font-size: 6px;
+}
+
+.bro a{
+    text-decoration: none; 
+    color:white;
+    
+}
+
+.cork{
+    margin-top: 30px;
+  background-color: lightgray;
+}
+.dropdown-menu li{
+    display: inline-block;
+}
+
+
+
+

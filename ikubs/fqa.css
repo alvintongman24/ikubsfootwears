@@ -1,0 +1,49 @@
+.first{
+    background-image: url('shoes.mp4');
+    
+}
+
+.time{
+    text-align: center;
+}
+
+.footer {
+    font-size: 15px;
+    background-color: black;
+    
+  }
+  
+  li{
+      text-decoration-style: none;
+      text-decoration: none;
+      text-decoration: none;
+      list-style: none;
+      
+  }
+  
+  .fotter{
+      background-color: black;
+      text-align: center;
+      font-size: 15px;
+      color:aliceblue;
+      letter-spacing: 9px;
+  
+  }
+
+  small{
+    font-size: 6px;
+}
+
+.bro a{
+    text-decoration: none; 
+    color:white;
+    
+}
+
+.cork{
+    margin-top: 30px;
+  background-color: lightgray;
+}
+.dropdown-menu li{
+    display: inline-block;
+}
